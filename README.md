@@ -24,14 +24,14 @@ I enjoy building software from the ground up and exploring how hardware and soft
 
 ## 🛠️ Selected Projects
 
-### <a href="https://github.com" style="color: inherit; text-decoration: none;">RustyNES</a>
-
+### <a href="https://github.com/jpedrosmenezes/RustyNES" style="color: inherit; text-decoration: none;">RustyNES</a>
 
 A Nintendo Entertainment System (NES) emulator written in Rust, currently focused on CPU emulation.
 
 Implemented CPU instructions and memory addressing modes, reaching the milestone of running a first game. The project is an ongoing exploration of instruction execution, memory access, and the inner workings of a classic gaming system.
 
 ### <a href="https://github.com/jpedrosmenezes/x86-bootloader" style="color: inherit; text-decoration: none;">x86-bootloader</a>
+
 An x86 bootloader written in AT&T Assembly Syntax, exploring the early stages of system initialization and the transition from firmware to custom code.
 
 ### <a href="https://github.com/jpedrosmenezes/lambari-rov" style="color: inherit; text-decoration: none;">Lambari-ROV</a>
