@@ -44,6 +44,8 @@ The project combines embedded programming, electronics, motor control, and hardw
 
 An open-source Arduino library that makes programming more approachable through simplified commands in Brazilian Portuguese.
 
+Contributed to the project, gaining experience with collaborative open-source development.
+
 ---
 
 ## 💻 Tech Stack
